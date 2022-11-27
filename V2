@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FDHKZY/Premium-Aimlock/main/V2", true))()
